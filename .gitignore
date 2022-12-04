@@ -1,6 +1,7 @@
 # Blocking Data
 /data
 /scans
+/models
 
 # Block Models
 *.h5
